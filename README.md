@@ -1,2 +1,2 @@
-# Gunes_Yabanc-_Dil_Kursu_Yonetim_Sistemi
+# Gunes_Yabanci_Dil_Kursu_Yonetim_Sistemi
 Veritabanı Yönetim Sistemleri dersi final projesi
