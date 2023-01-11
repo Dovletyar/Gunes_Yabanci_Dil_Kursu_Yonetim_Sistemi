@@ -1,0 +1,54 @@
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Yabancı Dil Yönetim Sistemi.exe.config
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Yabancı Dil Yönetim Sistemi.exe
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Yabancı Dil Yönetim Sistemi.pdb
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı Dil Yönetim Sistemi.csproj.AssemblyReference.cache
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı Dil Yönetim Sistemi.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.Properties.Resources.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı Dil Yönetim Sistemi.csproj.GenerateResource.cache
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı Dil Yönetim Sistemi.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı Dil Yönetim Sistemi.exe
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı Dil Yönetim Sistemi.pdb
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Guna.UI2.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.Kayit.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı Dil Yönetim Sistemi.csproj.CopyComplete
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.AnaSayfa.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.KayitYonetim.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.KursYazdir.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.OgrenciYazdir.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.OgrenciYonetim.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.PuanYazdir.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.PuanYonetim.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.YeniKurs.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.YeniPuan.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Npgsql.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Buffers.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Collections.Immutable.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Memory.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Numerics.Vectors.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Text.Json.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Threading.Channels.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.ValueTuple.dll
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\Npgsql.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Buffers.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Collections.Immutable.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Memory.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Numerics.Vectors.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Text.Json.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Threading.Channels.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\bin\Debug\System.ValueTuple.xml
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.OgretmenKayit.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.OgretmenYazdir.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.OgretmenYonetim.resources
+D:\PROJECTS\C# FORM\Yabancı Dil Yönetim Sistemi\Yabancı Dil Yönetim Sistemi\obj\Debug\Yabancı_Dil_Yönetim_Sistemi.Login.resources
